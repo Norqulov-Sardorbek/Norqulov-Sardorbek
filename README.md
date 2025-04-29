@@ -5,7 +5,7 @@
 - 🔍 Interested in **web development, backend architecture, and API design**.
 - 📚 Currently learning **advanced Django concepts, REST API development, and DevOps**.
 - 🤝 Looking to collaborate on **open-source Django projects**.
-- 📩 How to reach me: **[nsardorbek776@gmail.com] | [https://www.linkedin.com/in/sardorbek-norqulov-10a8a4271/} | [freebooks.uz]**.
+- 📩 How to reach me: **[nsardorbek776@gmail.com] | [https://www.linkedin.com/in/sardorbek-norqulov/} | [toysmars.uz]**.
 - ⚡ Fun fact: **I love automating workflows with Django!**
 
 ## 🛠️ Tech Stack
